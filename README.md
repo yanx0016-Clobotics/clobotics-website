@@ -1,11 +1,16 @@
+# Clobotics Website
 
-  # High-fidelity website prototype
+This repository contains the Clobotics website prototype and resources pages, including the Wind Case Study PDF.
 
-  This is a code bundle for High-fidelity website prototype. The original project is available at https://www.figma.com/design/jYhjdhT1QzXKASDrtkIwY3/High-fidelity-website-prototype.
+## Run locally
 
-  ## Running the code
+```bash
+npm install
+npm run dev
+```
 
-  Run `npm i` to install the dependencies.
+## Build
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm run build
+```
