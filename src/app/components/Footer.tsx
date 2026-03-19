@@ -15,7 +15,7 @@ export default function Footer() {
               />
             </div>
             <p className="text-muted-foreground mb-4">
-              Physical AI solutions for wind energy and retail excellence.
+              Physical AI for the World's Most Critical Operations.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
